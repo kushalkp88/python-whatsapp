@@ -1,0 +1,33 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Node.js
+node_modules/
+node_whatsapp/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+
+# VSCode settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Session and uploads (runtime data)
+session/
+uploads/
+
+# Log files
+*.log
+
+# Ignore package-lock.json if you don't want to track it (optional)
+# package-lock.json
+# node_whatsapp/package-lock.json

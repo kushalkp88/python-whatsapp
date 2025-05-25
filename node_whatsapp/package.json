@@ -1,0 +1,11 @@
+{
+  "name": "node_whatsapp",
+  "version": "1.0.0",
+  "description": "Node.js WhatsApp automation worker for Python Flask API",
+  "main": "send_message.cjs",
+  "type": "module",
+  "dependencies": {
+    "@open-wa/wa-automate": "^4.34.0",
+    "puppeteer": "^24.9.0"
+  }
+}
